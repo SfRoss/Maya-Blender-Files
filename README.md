@@ -1,2 +1,2 @@
-# Maya-Blender-Files
-A repo that holds my Blender/Maya files, Textures and Animations 
+# Maya/Blender-Files
+A repo that holds my Blender/Maya project files, Textures, Animations, and FBX files. 
